@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBeaconApplication</string>
+    <string name="text_for_login_kakao_account">Log in with Kakao</string>
+
+
+    <string name="kakao_app_key">3214e44441d0cdf058c7137e2cd7b617</string>
+</resources>
